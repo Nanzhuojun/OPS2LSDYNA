@@ -1,4 +1,4 @@
-# This python is writen by NAN Zhuojun & DAI Xu to create Thermal input LS-DYNA Keyword File
+# This python is writen by NAN Zhuojun (zhuojun.nan@connect.polyu.hk) & DAI Xu (xu.dai@burohappold.com) to create Thermal input LS-DYNA Keyword File
 # OPS2DYNA: convert from .out (OpenSEES output) to .key (LS-DYNA input)
 # This case is the baseline scenario based on the BST/FRS 1993 Fire Test Series
 # This script is used for slab
